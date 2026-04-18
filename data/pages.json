@@ -1,1 +1,33 @@
-
+{
+  "pages": [
+    {
+      "id": "getting-started",
+      "title": "Getting Started",
+      "description": "Everything you need to get up and running.",
+      "url": "/wiki/getting-started.html",
+      "icon": "🚀",
+      "category": "Basics",
+      "children": [
+        {
+          "id": "installation",
+          "title": "Installation",
+          "url": "/wiki/installation.html"
+        },
+        {
+          "id": "configuration",
+          "title": "Configuration",
+          "url": "/wiki/configuration.html"
+        }
+      ]
+    },
+    {
+      "id": "advanced",
+      "title": "Advanced Topics",
+      "description": "Deep dives for power users.",
+      "url": "/wiki/advanced.html",
+      "icon": "⚙️",
+      "category": "Advanced",
+      "children": []
+    }
+  ]
+}
