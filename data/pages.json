@@ -6,8 +6,8 @@
       "description": "Everything you need to get up and running.",
       "url": "/wiki/getting-started.html",
       "appUrl": "https://example.com/app",
-      "image": "/images/favicon.png",
-      "imageAlt": "Getting Started icon",
+      "image": "/images/sticker-urch.png",
+      "imageAlt": "",
       "audience": "All Staff",
       "logo": "⚙️"
     },
