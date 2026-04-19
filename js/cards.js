@@ -6,7 +6,7 @@ async function buildCards() {
 
   pages.forEach(page => {
     const card = document.createElement('div');
-    card.className = 'card shadow-sm p-3 mb-5 app-card col-sm';
+    card.className = 'card shadow-sm p-3 m-3 mb-5 app-card col-md-4';
     card.style.position = 'relative';
 
     card.innerHTML = `
