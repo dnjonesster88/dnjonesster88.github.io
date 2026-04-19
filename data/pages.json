@@ -18,7 +18,7 @@
       "url": "/wiki/getting-started.html",
       "appUrl": "https://example.com/app",
       "image": "/images/getting-started.png",
-      "imageAlt": "Getting Started icon",
+      "imageAlt": "",
       "audience": "All Staff",
       "logo": "⚙️"
     },
@@ -29,7 +29,7 @@
       "url": "/wiki/getting-started.html",
       "appUrl": "https://example.com/app",
       "image": "/images/getting-started.png",
-      "imageAlt": "Getting Started icon",
+      "imageAlt": "",
       "audience": "All Staff",
       "logo": "⚙️"
     },
@@ -40,7 +40,7 @@
       "url": "/wiki/getting-started.html",
       "appUrl": "https://example.com/app",
       "image": "/images/getting-started.png",
-      "imageAlt": "Getting Started icon",
+      "imageAlt": "",
       "audience": "All Staff",
       "logo": "⚙️"
     }
