@@ -1,1 +1,56 @@
 
+.app-card {
+    height:264px;
+}
+
+.app-card.p-3 {
+    padding: .5rem!important;
+}
+
+/*.app-card:hover {
+    background:aquamarine;
+}*/
+
+.app-card a:hover {
+    color:#004679;
+}
+
+
+.app-card-links {
+    position:absolute;
+    bottom:0;
+    left:0;
+    background-color:aliceblue;
+    width:100%;
+    text-align:center;
+    padding: 4px 0;
+    z-index:1;
+}
+
+.card-img-top {
+    /*height:100px;*/
+    height:90px;
+    object-fit:contain;
+}
+
+.card-title {
+    font-size:1.1em; 
+    margin-bottom:6px; 
+    line-height:1.1em;
+}
+
+.card-subtitle {font-size:.7em;}
+
+.card-body {
+    padding:.75rem!important;
+}
+
+img.card-img-top {
+    opacity:.8;
+}
+
+
+
+img.card-img-top:hover {
+    opacity:1;
+}
