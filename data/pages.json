@@ -10,6 +10,39 @@
       "imageAlt": "Getting Started icon",
       "audience": "All Staff",
       "logo": "⚙️"
+    },
+    {
+      "id": "getting-started",
+      "title": "Getting Started",
+      "description": "Everything you need to get up and running.",
+      "url": "/wiki/getting-started.html",
+      "appUrl": "https://example.com/app",
+      "image": "/images/getting-started.png",
+      "imageAlt": "Getting Started icon",
+      "audience": "All Staff",
+      "logo": "⚙️"
+    },
+    {
+      "id": "getting-started",
+      "title": "Getting Started",
+      "description": "Everything you need to get up and running.",
+      "url": "/wiki/getting-started.html",
+      "appUrl": "https://example.com/app",
+      "image": "/images/getting-started.png",
+      "imageAlt": "Getting Started icon",
+      "audience": "All Staff",
+      "logo": "⚙️"
+    },
+    {
+      "id": "getting-started",
+      "title": "Getting Started",
+      "description": "Everything you need to get up and running.",
+      "url": "/wiki/getting-started.html",
+      "appUrl": "https://example.com/app",
+      "image": "/images/getting-started.png",
+      "imageAlt": "Getting Started icon",
+      "audience": "All Staff",
+      "logo": "⚙️"
     }
   ]
 }
